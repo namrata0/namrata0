@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @namrata0
+- 👀 I’m interested in Bioinformatics and Computational Biology
+- 🌱 I’m currently learning Metagenomic analysis
+- 📫 Reach me at namratapant15@gmail.com
